@@ -1,5 +1,7 @@
 # EPUB JPEG XL Compress
 Convert PNG and JPG in EPUB to JXL with massive compression ratio
+- zip and cjxl needed
+
 ```
 #Move all epubs into current directory
 

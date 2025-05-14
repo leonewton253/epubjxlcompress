@@ -1,5 +1,5 @@
 # EPUB JPEG XL Compress
-Convert PNG and JPG in EPUB to JXL with massive compression ratio. Compresses all epubs in current directory.
+Convert PNG and JPG in EPUB to JXL with massive compression ratio. Compresses all epubs in current directory. A collection of 21 epubs with large PNGs resulted in a 75% reduction in size!
 # Requirements:
    - unzip, zip
    - cjxl (JPEG XL encoder)
